@@ -1,4 +1,4 @@
-# Directory_Cleaner
+# Directory Cleaner
 
 #### Video Demo:  https://www.youtube.com/watch?v=XB1oZKnJsxQ&ab_channel=JakubGlinka
 
