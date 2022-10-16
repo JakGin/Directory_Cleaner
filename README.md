@@ -7,6 +7,8 @@ will be moved to newly created directories named after the extensions
 (for example jpg files will be moved to directory named "jpg directory",
 txt files will be moved to directory named "txt directory" etc. )
 
+#### Video Demo:  https://www.youtube.com/watch?v=XB1oZKnJsxQ&ab_channel=JakubGlinka
+
 # How to run the program
 1. Download the repository
 2. Move the cleaner.py program to directory you want to clean up
